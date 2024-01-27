@@ -21,7 +21,6 @@ public class ModBlockTagGenerator extends BlockTagsProvider {
     @Override
     protected void addTags(HolderLookup.Provider provider) {
        this.tag(BlockTags.FENCES).add(ModBlocks.INVISIBLE_FENCE.get());
-       this.tag(ModTags.Blocks.INV).add(ModBlocks.INVISIBLE_FENCE.get());
        this.tag(BlockTags.DOORS).add(ModBlocks.INVISIBLE_DOOR.get());
 
     }
