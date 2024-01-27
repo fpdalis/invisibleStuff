@@ -1,0 +1,9 @@
+{
+  "block.invisiblestuff.invisible_button": "Invisible Button",
+  "block.invisiblestuff.invisible_pressureplate": "Invisible Pressure Plate",
+  "block.invisiblestuff.invisible_lever": "Invisible Lever",
+  "block.invisiblestuff.invisible_fence": "Invisible Fence",
+  "block.invisiblestuff.invisible_block": "Invisible Block",
+  "item.invisiblestuff.magic_wand": "Magic Wand",
+  "creativetab.invisible_stuff": "Invisible Stuff"
+}

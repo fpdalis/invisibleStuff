@@ -1,0 +1,4 @@
+// 1.20.1	2024-01-27T17:58:50.2797659	Tags for minecraft:block mod id invisiblestuff
+633357cf70e83c7acd9436620567349a89f28623 data/invisiblestuff/tags/blocks/inv.json
+1d85e8e626620d7a091789a8844338d958509619 data/minecraft/tags/blocks/doors.json
+633357cf70e83c7acd9436620567349a89f28623 data/minecraft/tags/blocks/fences.json

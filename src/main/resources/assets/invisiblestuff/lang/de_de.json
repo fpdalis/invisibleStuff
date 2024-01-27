@@ -1,0 +1,9 @@
+{
+  "block.invisiblestuff.invisible_button": "Unsichtbarer Knopf",
+  "block.invisiblestuff.invisible_pressureplate": "Unsichtbare Druckplatte",
+  "block.invisiblestuff.invisible_lever": "Unsichtbarer Hebel",
+  "block.invisiblestuff.invisible_fence": "Unsichtbarer Zaun",
+  "block.invisiblestuff.invisible_block": "Unsichtbarer Block",
+  "item.invisiblestuff.magic_wand": "Zauberstab",
+  "creativetab.invisible_stuff": "Unsichtbares Zeug"
+}

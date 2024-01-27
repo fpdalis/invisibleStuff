@@ -1,0 +1,10 @@
+{
+  "variants": {
+    "powered=false": {
+      "model": "invisiblestuff:block/invisible_button"
+    },
+    "powered=true": {
+      "model": "invisiblestuff:block/invisible_button"
+    }
+  }
+}
